@@ -1,3 +1,2 @@
-# To avoid some soong library error
 soong_namespace {
 }
